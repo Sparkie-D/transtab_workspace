@@ -1,0 +1,10 @@
+age
+heart
+liver
+spleen
+lung
+kidney
+brain
+pancreas
+height
+identity
